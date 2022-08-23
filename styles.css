@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+  height: auto;
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.item img:hover {
+  transform: scale(1.05);
+  transition: all ease;
+  border-radius: 15px;
+  box-shadow: 0 0 5px rgb(96, 123, 243);
+}
+
+#bj_container {
+  max-width: 35%;
+}
+
+#bj_container h3 {
+  color: rgb(46, 46, 46);
+}
+
+#bj_container p {
+  color: rgb(46, 46, 46);
+}
+
+#mac_container {
+  max-width: 35%;
+}

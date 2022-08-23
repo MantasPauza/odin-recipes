@@ -21,3 +21,6 @@ body {
     color: rgb(46, 46, 46);
 }
 
+#mac_container {
+    max-width: 35%;  
+}

@@ -1,2 +1,2 @@
-# The-Odin-Project
-Various projects from 'The Odin Project'
+# Odin-recipes
+Recipes project from 'The Odin Project'
